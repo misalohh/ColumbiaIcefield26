@@ -12,7 +12,6 @@ export function calculateBalance(T) {
 }
 
 export function calculateIcePercent(climateData, scenario, targetYear) {
-
     let cumulativeBalance = 0;
 
     for (const data of climateData) {

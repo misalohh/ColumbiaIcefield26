@@ -101,7 +101,6 @@ function updateIce(year) {
     );
 }
 
-
 function setupSlider() {
     slider.addEventListener("input", () => {
 
